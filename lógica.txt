@@ -1,0 +1,39 @@
+================================
+INICIO DO PROJETO
+================================
+
+Árvore:
+
+Usuario X
+- Usuário Fulano
+- Usuário Cicrano
+-- Usuário Paulo
+--- Usuario João
+---- Usuário Pedrinho
+----- Usuário Roberto (Ele ñ faz parte do "Usuario X" pq é 5ª nivel)
+-- Usuário Pedro
+
+Condição:
+
+- Iniciante = 0 Cadastros
+- Junior = 1 Cadastro 
+- Diretor = 3 Cadastros
+- Diretor Senior = 5 Cadastros
+- Executivo =  10 Cadastros 
+
+Etapas:
+
+- Login na conta e cadastro
+- listar os meus cadastros até o nível X
+- script pra atualizar as patentes (Roda 1 vez no dia, atualizar todos os usuarios, recalcular)
+
+
+==============================
+INICIANDO
+==============================
+
+- Criação do Banco
+- Login
+- Cadastro de login
+- Exibição na tela
+- Funções
